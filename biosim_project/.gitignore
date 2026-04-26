@@ -1,0 +1,9 @@
+data/
+*.npz
+*.pt
+*.zip
+__pycache__/
+*.pyc
+.env
+wandb/
+*.egg-info/
